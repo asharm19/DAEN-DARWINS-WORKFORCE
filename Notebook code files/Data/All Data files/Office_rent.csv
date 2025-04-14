@@ -1,0 +1,551 @@
+City,State,Avg.OfficeRent_per_sqft,Vacancy
+Birmingham,AL,$21.76,16.73%
+Homewood,AL,$21.92,6.57%
+Hoover,AL,$17.45,22.81%
+Huntsville,AL,$24.98,11.51%
+Madison,AL,$22.05,14.51%
+Mobile,AL,$16.12,5.03%
+Mountain Brook,AL,$20.43,3.43%
+Little Rock,AR,$19.74,8.73%
+Chandler,AZ,$31.63,30.63%
+Gilbert,AZ,$23.33,8.48%
+Glendale,AZ,$31.99,9.43%
+Mesa,AZ,$24.62,16.95%
+Peoria,AZ,$28.95,14.18%
+Phoenix,AZ,$26.61,19.40%
+Scottsdale,AZ,$33.08,14.59%
+Sun City,AZ,$24.73,22.81%
+Sun City West,AZ,$27.73,17.43%
+Tempe,AZ,$27.45,19.81%
+Tucson,AZ,$19.59,14.14%
+Agoura Hills,CA,$27.88,29.29%
+Alhambra,CA,$33.85,5.48%
+Aliso Viejo,CA,$29.96,33.62%
+Anaheim,CA,$33.12,22.67%
+Arcadia,CA,$37.67,7.51%
+Bakersfield,CA,$26.53,9.87%
+Berkeley,CA,$36.65,13.49%
+Beverly Hills,CA,$68.14,16.62%
+Brea,CA,$29.26,16.92%
+Burbank,CA,$54.13,13.55%
+Burlingame,CA,$48.05,8.89%
+Calabasas,CA,$30.67,21.33%
+Camarillo,CA,$25.88,14.23%
+Campbell,CA,$54.80,29.41%
+Carlsbad,CA,$36.01,11.81%
+Chula Vista,CA,$42.34,10.70%
+Concord,CA,$25.31,28.72%
+Corona,CA,$31.49,3.88%
+Corte Madera,CA,$63.63,4.46%
+Costa Mesa,CA,$34.66,19.52%
+Culver City,CA,$51.83,20.42%
+Cupertino,CA,$65.47,3.42%
+Daly City,CA,$42.60,13.76%
+Danville,CA,$33.26,12.30%
+Diamond Bar,CA,$31.52,8.25%
+East Palo Alto,CA,$113.21,53.51%
+El Segundo,CA,$48.97,22.14%
+Emeryville,CA,$60.43,22.10%
+Encinitas,CA,$52.20,9.07%
+Encino,CA,$35.97,16.91%
+Folsom,CA,$26.82,20.01%
+Foster City,CA,$66.06,15.49%
+Fremont,CA,$34.00,5.39%
+Fresno,CA,$23.55,16.51%
+Fullerton,CA,$40.52,13.75%
+Garden Grove,CA,$26.88,9.49%
+Glendale,CA,$38.47,15.10%
+Gold River,CA,$23.44,53.89%
+Goleta,CA,$24.43,18.50%
+Huntington Beach,CA,$24.95,14.16%
+Irvine,CA,$34.67,14.58%
+La Jolla,CA,$42.99,6.49%
+Laguna Hills,CA,$26.93,17.43%
+Lake Forest,CA,$26.77,13.63%
+Larkspur,CA,$52.11,12.56%
+Long Beach,CA,$26.56,8.97%
+Los Angeles,CA,$49.02,17.69%
+Los Gatos,CA,$44.61,6.17%
+Menlo Park,CA,$111.56,19.80%
+Mill Valley,CA,$62.98,20.11%
+Milpitas,CA,$31.86,14.86%
+Monterey,CA,$29.36,21.41%
+Monterey Park,CA,$32.42,26.52%
+Mountain View,CA,$91.99,22.49%
+Murrieta,CA,$26.29,4.19%
+Napa,CA,$36.17,19.89%
+Newport Beach,CA,$41.57,14.01%
+North Hollywood,CA,$39.38,25.34%
+Novato,CA,$31.54,26.44%
+Oakland,CA,$51.74,31.36%
+Ontario,CA,$29.34,10.82%
+Orange,CA,$29.76,18.38%
+Oxnard,CA,$31.23,24.61%
+Palo Alto,CA,$87.75,24.43%
+Pasadena,CA,$42.33,16.77%
+Petaluma,CA,$24.86,25.12%
+Placentia,CA,$25.44,14.09%
+Pleasanton,CA,$29.05,18.89%
+Pomona,CA,$29.71,16.63%
+Rancho Cordova,CA,$23.45,31.06%
+Rancho Cucamonga,CA,$25.61,8.75%
+Redwood City,CA,$82.53,28.47%
+Riverside,CA,$28.23,4.73%
+Roseville,CA,$26.64,20.14%
+Sacramento,CA,$26.20,19.65%
+San Bernardino,CA,$20.05,11.34%
+San Diego,CA,$41.60,18.90%
+San Francisco,CA,$62.20,26.04%
+San Jose,CA,$45.99,19.92%
+San Mateo,CA,$63.68,23%
+San Rafael,CA,$42.56,29.31%
+San Ramon,CA,$29.32,27.53%
+Santa Ana,CA,$28.83,24.91%
+Santa Barbara,CA,$34.13,13.03%
+Santa Clara,CA,$48.72,24.43%
+Santa Monica,CA,$64.94,21.27%
+Santa Rosa,CA,$27.11,7.30%
+Sausalito,CA,$56.20,27.19%
+Sherman Oaks,CA,$33.82,11.05%
+South San Francisco,CA,$48.02,14.21%
+Stockton,CA,$21.30,14.03%
+Studio City,CA,$46.74,12.93%
+Sunnyvale,CA,$82.35,18.44%
+Tarzana,CA,$37.86,15.03%
+Temecula,CA,$27.78,5.36%
+Thousand Oaks,CA,$30.31,46.19%
+Torrance,CA,$36.61,13.25%
+Tustin,CA,$28.29,13.08%
+Upland,CA,$25.01,7.24%
+Valencia,CA,$41.58,6.74%
+Van Nuys,CA,$28.37,4.69%
+Ventura,CA,$31.15,13.13%
+Vista,CA,$32.60,18.13%
+Walnut Creek,CA,$39.35,18.25%
+West Covina,CA,$28.21,10.65%
+Westlake Village,CA,$30.79,16.85%
+Woodland Hills,CA,$26.77,27.78%
+Arvada,CO,$22.86,11.30%
+Aurora,CO,$19.32,8.26%
+Boulder,CO,$28.32,11.51%
+Broomfield,CO,$31.34,15.91%
+Centennial,CO,$24.17,18.40%
+Colorado Springs,CO,$22.25,18.20%
+Denver,CO,$36.45,28.73%
+Englewood,CO,$23.53,18.21%
+Evergreen,CO,$21.93,16.55%
+Fort Collins,CO,$23.75,21.17%
+Golden,CO,$25.69,18.64%
+Greeley,CO,$24.28,57.58%
+Greenwood Village,CO,$28.63,25.59%
+Highlands Ranch,CO,$27.59,24.78%
+Lakewood,CO,$23.16,23.39%
+Littleton,CO,$23.75,11.49%
+Longmont,CO,$22.57,14.26%
+Westminster,CO,$27.22,13.42%
+Danbury,CT,$28.91,22.29%
+East Hartford,CT,$20.25,8.56%
+Farmington,CT,$20.48,19.11%
+Glastonbury Town,CT,$22.85,18.26%
+Greenwich,CT,$50.56,11%
+Hartford,CT,$22.25,20.66%
+Milford Town,CT,$21.97,25.53%
+New Haven,CT,$31.06,30.33%
+New London,CT,$20.58,13.88%
+Rocky Hill,CT,$24.27,20.39%
+Shelton,CT,$25.90,17.09%
+Stamford,CT,$43.53,25.69%
+Wallingford,CT,$25.18,42.69%
+Wilton,CT,$36.60,27.57%
+Windsor,CT,$19.94,34.25%
+Washington,DC,$52.54,21.52%
+Altamonte Springs,FL,$20.05,11.92%
+Aventura,FL,$56.04,4.92%
+Boca Raton,FL,$34.31,12.53%
+Bonita Springs,FL,$26.66,12.60%
+Bradenton,FL,$28.81,13.11%
+Clearwater,FL,$24.46,13.12%
+Coral Gables,FL,$50.34,15.71%
+Coral Springs,FL,$30.16,13.37%
+Deerfield Beach,FL,$26.83,16.86%
+Delray Beach,FL,$34.38,10.54%
+Doral,FL,$36.01,37.07%
+Fort Lauderdale,FL,$32.61,17.03%
+Fort Myers,FL,$22.14,13.04%
+Hollywood,FL,$42.83,22.47%
+Jacksonville,FL,$22.64,21.52%
+Kissimmee,FL,$26.87,7.46%
+Lake Mary,FL,$25.16,29.15%
+Maitland,FL,$19.31,16.30%
+Melbourne,FL,$22.28,9.67%
+Miami,FL,$49.18,13.22%
+Miami Lakes,FL,$31.48,11.64%
+Miramar,FL,$35.05,19.66%
+Naples,FL,$34.28,6.18%
+Orlando,FL,$26.74,17.04%
+Palm Beach Gardens,FL,$43.22,16.70%
+Pensacola,FL,$26.99,7.65%
+Plantation,FL,$29.69,23.15%
+Sarasota City,FL,$31.06,12.83%
+St. Petersburg,FL,$22.70,14.57%
+Sunrise,FL,$29.82,16.61%
+Tallahassee,FL,$20.77,7.72%
+Tampa,FL,$31.47,13.79%
+Venice,FL,$31.14,20.75%
+West Palm Beach,FL,$36.56,10.84%
+Weston,FL,$34.22,12.22%
+Winter Park,FL,$28.22,10.35%
+Alpharetta City,GA,$26.45,19.43%
+Atlanta,GA,$34.79,17.89%
+Decatur City,GA,$27.48,8.14%
+Duluth,GA,$21.55,10.46%
+Macon,GA,$16.48,16.10%
+Marietta,GA,$19.33,15.77%
+Norcross,GA,$18.80,13.84%
+Peachtree Corners,GA,$20.36,5%
+Roswell,GA,$24.40,20.45%
+Sandy Springs,GA,$27.38,23.25%
+Tucker,GA,$23.24,9.51%
+Honolulu,HI,$37.48,10.49%
+Des Moines,IA,$25.08,11.18%
+Urbandale,IA,$22.33,23.89%
+West Des Moines,IA,$21.33,20.50%
+Boise,ID,$21.30,6.61%
+Meridian,ID,$24.82,13.51%
+Arlington Heights,IL,$26.85,34%
+Aurora,IL,$22.70,12.19%
+Bensenville,IL,$15.02,39.32%
+Buffalo Grove,IL,$19.40,28.83%
+Burr Ridge,IL,$20.37,6.99%
+Chicago,IL,$34.16,15.60%
+Deerfield,IL,$28.83,18.35%
+Des Plaines,IL,$22.71,18.46%
+Downers Grove,IL,$29.68,24.36%
+Elgin,IL,$23.05,25.58%
+Hoffman Estates,IL,$18.84,9.01%
+Itasca,IL,$24.10,27.81%
+Joliet,IL,$17.25,4.59%
+Lincolnwood,IL,$22.56,43.39%
+Lisle,IL,$23.26,33.04%
+Lombard,IL,$27.07,22.29%
+Matteson,IL,$18.37,56.67%
+Naperville,IL,$23.22,17.09%
+Northbrook,IL,$27.82,11.01%
+Northfield,IL,$27.20,45.23%
+Oak Brook,IL,$30.15,18%
+Oakbrook Terrace,IL,$28.89,31.16%
+Palatine,IL,$21.44,39.54%
+Park Ridge,IL,$20.90,32.24%
+Rolling Meadows,IL,$18.91,24.97%
+Rosemont,IL,$33.29,23.82%
+Saint Charles,IL,$27.06,37.21%
+Schaumburg,IL,$20.97,20.49%
+Skokie,IL,$28.00,45.66%
+Tinley Park,IL,$22.11,41.46%
+Vernon Hills,IL,$19.60,37.96%
+Warrenville,IL,$21.82,20%
+Westmont,IL,$21.97,15.49%
+Woodridge,IL,$21.24,11.16%
+Carmel,IN,$24.31,11.25%
+Fort Wayne,IN,$16.77,22.04%
+Indianapolis,IN,$20.84,21.70%
+Merrillville,IN,$19.89,21.40%
+Kansas City,KS,$24.08,7.13%
+Leawood,KS,$25.63,13.95%
+Lenexa,KS,$21.39,16.43%
+Olathe,KS,$23.45,50.75%
+Overland Park,KS,$24.33,17.51%
+Prairie Village,KS,$23.19,4.56%
+Wichita,KS,$18.33,11.58%
+Florence,KY,$20.20,19.05%
+Fort Wright,KY,$19.66,14.35%
+Lexington,KY,$19.19,13.40%
+Louisville,KY,$19.71,12.53%
+Baton Rouge,LA,$20.05,12.60%
+Lafayette,LA,$17.57,10.54%
+Metairie,LA,$20.62,4.73%
+New Orleans,LA,$20.03,6.15%
+Boston,MA,$65.72,11.47%
+Burlington,MA,$64.11,13.33%
+Framingham,MA,$26.81,9.17%
+Natick,MA,$36.75,15.52%
+Annapolis,MD,$29.76,13.07%
+Baltimore City,MD,$28.37,17.24%
+Bel Air,MD,$24.53,8.49%
+Belcamp,MD,$24.00,28.70%
+Bethesda,MD,$36.91,16%
+Cockeysville,MD,$23.82,26.19%
+Columbia,MD,$25.01,11.77%
+Crofton,MD,$28.66,19.40%
+Gaithersburg,MD,$26.27,19.77%
+Glen Burnie,MD,$20.78,20.34%
+Greenbelt,MD,$23.23,17.98%
+Hunt Valley,MD,$22.57,13.76%
+Hyattsville,MD,$25.19,5.24%
+Lanham,MD,$19.44,16.79%
+Laurel,MD,$23.30,2.01%
+Owings Mills,MD,$23.42,30.43%
+Rockville,MD,$33.89,13.24%
+Rosedale,MD,$27.05,26.67%
+Silver Spring,MD,$31.38,13.27%
+Timonium,MD,$26.18,15.63%
+Towson,MD,$25.75,18.81%
+Portland,ME,$19.13,11.15%
+Scarborough,ME,$19.81,23.63%
+South Portland,ME,$19.87,31.82%
+Ann Arbor,MI,$25.33,21.62%
+Auburn Hills,MI,$21.17,29.76%
+Bingham Farms,MI,$17.83,30.56%
+Bloomfield Hills,MI,$25.02,16.71%
+Clinton Township,MI,$17.13,22.42%
+Dearborn,MI,$17.86,22.22%
+Detroit,MI,$26.30,26.97%
+East Lansing,MI,$20.68,23.36%
+Farmington Hills,MI,$21.98,23.58%
+Grand Rapids,MI,$22.56,21.97%
+Kalamazoo,MI,$18.88,23.09%
+Lansing,MI,$19.54,25.36%
+Livonia,MI,$19.17,15.24%
+Novi,MI,$29.41,20.23%
+Okemos,MI,$19.48,46.06%
+Rochester Hills,MI,$26.25,14.37%
+Southfield,MI,$20.47,43.93%
+Sterling Heights,MI,$18.09,32.69%
+Troy,MI,$19.87,25.56%
+Bloomington,MN,$28.08,17.48%
+Brooklyn Center,MN,$18.32,18.89%
+Burnsville,MN,$25.56,10.87%
+Eagan,MN,$21.35,17.37%
+Eden Prairie,MN,$25.65,30%
+Edina,MN,$28.12,16.08%
+Mendota Heights,MN,$18.66,19.65%
+Minneapolis,MN,$30.87,15.94%
+Minnetonka,MN,$28.25,20.94%
+Plymouth,MN,$32.46,8.77%
+Roseville,MN,$23.07,30.13%
+St. Paul,MN,$24.62,16.45%
+Ballwin,MO,$20.47,10.48%
+Chesterfield,MO,$22.24,30.50%
+Clayton,MO,$28.63,8.46%
+Creve Coeur,MO,$20.30,10.77%
+Earth City,MO,$18.29,40.31%
+Fenton,MO,$20.01,17.83%
+Kansas City,MO,$20.86,14.88%
+Maryland Heights,MO,$18.94,12.78%
+Saint Louis,MO,$24.60,19.80%
+Jackson,MS,$17.66,14.15%
+Ridgeland,MS,$22.57,6.86%
+Asheville,NC,$29.26,6.67%
+Cary,NC,$28.00,17.80%
+Chapel Hill,NC,$29.56,26.93%
+Charlotte,NC,$33.02,15.94%
+Durham,NC,$28.52,26.19%
+Greensboro,NC,$20.69,20.56%
+Mooresville,NC,$26.16,18.13%
+Morrisville,NC,$29.77,27.38%
+Raleigh,NC,$31.68,20.38%
+Winston-Salem,NC,$18.11,19.63%
+Bellevue,NE,$16.92,10.41%
+Lincoln,NE,$20.58,15.48%
+Omaha,NE,$24.26,15.27%
+Nashua,NH,$22.40,20.34%
+Portsmouth,NH,$31.07,13.21%
+Bridgewater,NJ,$41.24,26.83%
+Cherry Hill,NJ,$21.77,26.71%
+Cranford,NJ,$30.47,20.16%
+Edison,NJ,$43.19,14.89%
+Fairfield,NJ,$21.41,26.54%
+Florham Park,NJ,$28.52,20.68%
+Hamilton Township,NJ,$26.40,20.03%
+Iselin,NJ,$43.83,17.19%
+Jersey City,NJ,$50.00,14.44%
+Livingston,NJ,$27.52,26.41%
+Marlton,NJ,$23.87,17.31%
+Montvale,NJ,$26.66,22.73%
+Moorestown,NJ,$23.56,18.12%
+Morristown,NJ,$37.94,13.98%
+Mount Laurel,NJ,$19.15,7.50%
+Paramus,NJ,$33.85,12.12%
+Parsippany-TroyHills,NJ,$28.66,21.59%
+Princeton,NJ,$36.50,27.34%
+Roseland,NJ,$28.13,43.75%
+Albuquerque,NM,$20.12,9.52%
+Rio Rancho,NM,$18.01,40.23%
+Carson City,NV,$20.52,5.10%
+Henderson,NV,$29.94,8.84%
+Las Vegas,NV,$30.23,15.69%
+Reno,NV,$25.82,15.43%
+Albany,NY,$19.46,16.19%
+Brooklyn,NY,$44.85,16.43%
+Buffalo,NY,$19.21,8.39%
+Colonie Town,NY,$19.68,9.12%
+Fishkill Town,NY,$27.17,19.17%
+Garden City,NY,$37.86,15.39%
+Great Neck,NY,$38.96,3.91%
+Hauppauge,NY,$25.22,18.98%
+Jericho,NY,$33.88,7.19%
+Manhattan,NY,$73.90,17.07%
+Melville,NY,$33.05,16.82%
+Mineola,NY,$36.21,13.42%
+Purchase,NY,$36.97,22.09%
+Rochester,NY,$21.48,9.78%
+Tarrytown,NY,$31.71,21.24%
+Westbury,NY,$34.09,13.42%
+White Plains,NY,$36.74,24.37%
+Akron,OH,$19.79,10.45%
+Beachwood,OH,$26.16,12.91%
+Blue Ash,OH,$22.88,43.83%
+Brecksville,OH,$22.15,36.76%
+Broadview Heights,OH,$22.92,37.57%
+Canton,OH,$14.85,10.85%
+Cincinnati,OH,$18.83,25.17%
+Cleveland,OH,$20.79,19.63%
+Columbus,OH,$21.28,15.19%
+Dayton,OH,$18.88,20.75%
+Dublin,OH,$21.74,26.16%
+Fairlawn,OH,$24.00,15.57%
+Independence,OH,$19.71,23.15%
+Maumee,OH,$17.62,14.36%
+Mayfield Heights,OH,$22.88,13.96%
+Miamisburg,OH,$19.71,22.20%
+Milford,OH,$15.68,16.82%
+Toledo,OH,$15.85,7.25%
+Westerville,OH,$24.17,17.43%
+Westlake,OH,$21.32,27.16%
+Norman,OK,$17.97,13.55%
+Oklahoma City,OK,$21.53,115.10%
+Tulsa,OK,$15.61,18.62%
+Beaverton,OR,$20.91,10.62%
+Clackamas,OR,$28.81,14.35%
+Eugene,OR,$19.14,10.26%
+Portland,OR,$28.45,17.97%
+Salem,OR,$21.75,4.93%
+Tualatin,OR,$26.83,25.41%
+Bala Cynwyd,PA,$34.62,28.51%
+Berwyn,PA,$32.76,23.36%
+Blue Bell,PA,$25.52,13.46%
+Camp Hill,PA,$20.77,23%
+Canonsburg,PA,$20.49,16.99%
+Conshohocken,PA,$42.70,10.88%
+Exton,PA,$23.76,14.14%
+Harrisburg,PA,$19.48,10.75%
+King of Prussia,PA,$30.34,14.05%
+Lancaster,PA,$17.95,12.67%
+Lemoyne,PA,$21.59,35.04%
+Mechanicsburg,PA,$23.31,10%
+North Wales,PA,$22.70,24.67%
+Philadelphia,PA,$38.14,12.69%
+Pittsburgh,PA,$25.92,21.05%
+Plymouth Meeting,PA,$30.66,22.28%
+Plymouth Town,PA,$35.19,28.29%
+Radnor,PA,$48.68,13.81%
+Wayne,PA,$33.85,6.92%
+West Chester,PA,$23.56,5.18%
+Providence,RI,$30.88,17.13%
+Charleston,SC,$34.93,27.29%
+Columbia,SC,$20.02,15.10%
+Greenville,SC,$24.34,23.09%
+Mount Pleasant,SC,$30.48,17.92%
+North Charleston,SC,$25.62,16.50%
+Brentwood,TN,$31.76,10.95%
+Chattanooga,TN,$24.50,7.37%
+Franklin,TN,$32.66,24%
+Hermitage,TN,$29.33,10.80%
+Knoxville,TN,$22.82,8.44%
+Memphis,TN,$18.66,19.70%
+Nashville,TN,$30.46,16.94%
+Addison,TX,$27.06,12.07%
+Allen,TX,$22.82,23.80%
+Amarillo,TX,$15.70,10.21%
+Arlington,TX,$23.00,18.96%
+Austin,TX,$41.81,23.57%
+Bedford,TX,$21.47,38.71%
+Bellaire,TX,$31.37,20.07%
+Carrollton,TX,$23.15,17.55%
+Conroe,TX,$25.88,13.23%
+Corpus Christi,TX,$20.29,17.51%
+Dallas,TX,$26.83,18.36%
+Denton,TX,$29.84,12.63%
+Farmers Branch,TX,$31.26,20.83%
+Fort Worth,TX,$27.16,14.98%
+Frisco,TX,$36.86,10.99%
+Grand Prairie,TX,$21.28,9.70%
+Grapevine,TX,$22.91,20.02%
+Houston,TX,$31.12,26.52%
+Humble,TX,$23.71,28.98%
+Hurst,TX,$18.94,29%
+Irving,TX,$28.59,21.78%
+Katy,TX,$31.60,12.72%
+Kingwood,TX,$23.62,16.88%
+Lewisville,TX,$24.93,15.17%
+McKinney,TX,$27.81,17.54%
+Midland,TX,$21.30,27.81%
+North Richland Hills,TX,$20.27,13.63%
+Pearland,TX,$32.41,22.86%
+Plano,TX,$37.11,23.59%
+Richardson,TX,$25.53,19.32%
+Richmond,TX,$29.58,57.41%
+San Antonio,TX,$27.34,19.54%
+Shenandoah,TX,$30.68,7.04%
+Southlake,TX,$35.05,21.80%
+Spring,TX,$36.54,20.71%
+Sugar Land,TX,$30.15,25.73%
+The Woodlands,TX,$30.66,20.94%
+Cottonwood Heights,UT,$29.30,16.85%
+Draper,UT,$28.02,39.90%
+Lehi,UT,$29.06,9.73%
+Murray,UT,$21.68,14.42%
+Ogden,UT,$18.76,15.78%
+Orem,UT,$21.74,73.60%
+Salt Lake City,UT,$26.96,22.80%
+Sandy,UT,$19.99,10.27%
+South Jordan,UT,$27.57,22.02%
+Alexandria,VA,$36.25,21.84%
+Annandale,VA,$28.89,12.54%
+Arlington,VA,$41.96,22.84%
+Centreville,VA,$32.71,17.55%
+Chantilly,VA,$23.77,11.26%
+Chesapeake,VA,$22.72,15.78%
+Fairfax,VA,$29.26,20.98%
+Falls Church,VA,$29.00,23.69%
+Fredericksburg,VA,$30.50,10.92%
+Glen Allen,VA,$22.64,16.13%
+Hampton,VA,$16.45,12.06%
+Henrico,VA,$23.01,9.36%
+Herndon,VA,$29.67,12.65%
+Mc Lean,VA,$39.02,17.93%
+Newport News,VA,$18.48,12.75%
+Norfolk,VA,$27.21,14.25%
+Reston,VA,$30.21,14.92%
+Richmond,VA,$23.34,14.14%
+Springfield,VA,$24.47,21.71%
+Stafford,VA,$24.18,14.21%
+Sterling,VA,$22.26,8.97%
+Tysons,VA,$59.37,20.51%
+Vienna,VA,$35.22,25.55%
+Virginia Beach,VA,$23.17,14.01%
+Bellevue,WA,$50.16,19.67%
+Bothell,WA,$31.29,12.78%
+Everett,WA,$23.61,14.06%
+Federal Way,WA,$26.71,16.97%
+Gig Harbor,WA,$28.29,12.72%
+Issaquah,WA,$41.92,57.21%
+Kent,WA,$29.19,11.16%
+Kirkland,WA,$39.23,13.91%
+Lynnwood,WA,$32.95,24.46%
+Olympia,WA,$25.14,6.64%
+Renton,WA,$28.95,31.86%
+Seattle,WA,$43.13,26.45%
+Spokane,WA,$21.97,16.01%
+Tacoma,WA,$27.12,12.36%
+Tukwila,WA,$26.20,18.22%
+Vancouver,WA,$27.34,10.03%
+Brookfield,WI,$19.71,27.12%
+Greenfield,WI,$23.51,18.81%
+Madison,WI,$23.50,17.62%
+Mequon,WI,$19.50,32.37%
+Milwaukee,WI,$23.29,23.75%
+Racine,WI,$19.78,10.06%
+Waukesha,WI,$20.62,24.58%
+Wauwatosa,WI,$20.96,19.01%
+West Allis,WI,$18.30,19.30%
