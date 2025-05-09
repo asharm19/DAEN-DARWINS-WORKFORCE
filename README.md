@@ -7,4 +7,4 @@
 ## PROJECT GOALS:
     1. Develop a comparison between remote/telework and in-office knowledge workers (the team may choose the types of knowledge workers as long as it         includes one cybersecurity occupation) across the United States taking into account office space costs for private industry and the Federal             Government.
     2. Develop a map of the United States that is interactive and allows for comparisons between remote/telework and in-office knowledge workers for          private industry and the Federal Government. 
-## Contributing: Aakash Sharma, Venkata Keerthi, Nikhil Reddy, Rohit Chityala, Pooja Kavati, and Mogana Sowndhary
+## Contributing: Aakash Sharma, Venkata Keerthi Vege, Nikhil Reddy, Rohit Chityala, Pooja Kavati, and Mogana Sowndhary
